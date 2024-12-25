@@ -42,6 +42,14 @@ I'm a passionate **Software Developer** with 8 years of experience, primarily fo
 - **Description**: This is my first project where I built a smart contract using **Solidity** on **Ethereum**. It’s a simple decentralized application (DApp) designed to demonstrate my understanding of blockchain concepts.
 - **Technologies Used**: Solidity, Ethereum, Smart Contracts
 
+### [Lottery DApp](https://github.com/anisToumi1990/Lottery)
+- **Description**: This project is a decentralized lottery built with **Solidity** and **Foundry**. It leverages **Chainlink VRF** for secure random winner selection and **Chainlink Keepers** for automated execution. Participants can enter by paying an entry fee, and the system ensures fairness and transparency. This project is ideal for learning Solidity and exploring blockchain best practices.
+- **Technologies Used**: Solidity, Foundry, Ethereum, Chainlink VRF, Chainlink Keepers, Smart Contracts
+
+### [ERC20_OurToken](https://github.com/anisToumi1990/ERC20_OurToken)
+- **Description**: This project showcases a custom **ERC20 token** implementation using **Solidity** and the **Foundry** development framework. It serves as a practical example of how to create, test, and deploy an ERC20 token while adhering to the ERC20 standard.
+- **Technologies Used**: Solidity, Foundry, Ethereum, ERC20, Smart Contracts
+
 ---
 
 ## 📫 **Connect with Me:**
