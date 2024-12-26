@@ -50,6 +50,10 @@ I'm a passionate **Software Developer** with 8 years of experience, primarily fo
 - **Description**: This project showcases a custom **ERC20 token** implementation using **Solidity** and the **Foundry** development framework. It serves as a practical example of how to create, test, and deploy an ERC20 token while adhering to the ERC20 standard.
 - **Technologies Used**: Solidity, Foundry, Ethereum, ERC20, Smart Contracts
 
+### [ERC721_NFT](https://github.com/anisToumi1990/ERC721_NFT_Collection)
+- **Description**: This project includes two ERC721-based NFT contracts, **BasicNft** and **MoodNft**. **BasicNft** is a simple NFT collection, while **MoodNft** allows the minting and flipping of mood states between "Happy" and "Sad" using on-chain metadata.
+- **Technologies Used**: Solidity, Ethereum, ERC721, Smart Contracts, Base64, OpenZeppelin
+
 ---
 
 ## 📫 **Connect with Me:**
