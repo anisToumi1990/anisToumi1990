@@ -54,6 +54,10 @@ I'm a passionate **Software Developer** with 8 years of experience, primarily fo
 - **Description**: This project includes two ERC721-based NFT contracts, **BasicNft** and **MoodNft**. **BasicNft** is a simple NFT collection, while **MoodNft** allows the minting and flipping of mood states between "Happy" and "Sad" using on-chain metadata.
 - **Technologies Used**: Solidity, Ethereum, ERC721, Smart Contracts, Base64, OpenZeppelin
 
+### [DeFi Stablecoin Project](https://github.com/anisToumi1990/Foundry-StableCoin)
+- **Description**: This project is meant to be a stablecoin where users can deposit WETH and WBTC in exchange for a token that will be pegged to the USD.
+- **Technologies Used**: Solidity, Foundry, Ethereum, ERC20, Smart Contractsm Fuzz & Invariant tests
+
 ---
 
 ## 📫 **Connect with Me:**
